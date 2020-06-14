@@ -12,7 +12,7 @@ npm run build
 
 Once the build is finished, you will find a folder called `dist` at the project's root containing the 'modern' and 'legacy' assets.
 
-Then you could run `npm run serve` to view the app in a browser.
+Then you could run `npm run serve` to view the app in a browser. Compare IE11 and modern browser.
 
 ## Credits
 
